@@ -1,0 +1,17 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+gql==0.1.0
+graphql-core==1.1
+idna==2.6
+pendulum==1.2.5
+pkg-resources==0.0.0
+promise==2.0.2
+python-dateutil==2.6.1
+pytz==2017.2
+pytzdata==2017.2.2
+requests==2.18.4
+six==1.11.0
+telepot==12.3
+typing==3.6.2
+tzlocal==1.4
+urllib3==1.22
